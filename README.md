@@ -1,6 +1,6 @@
 # AI-free saturday
 
-AI-free satruday is a weekly event organized by [BLEU](https://github.com/BLEU-IO) as an initiaive for programmers who want to practice writing code all by themselves withou any AI to assure their competence and refresh their mind and their love for programming.
+AI-free satruday is a weekly event organized by [BLEU](https://github.com/BLEU-IO) as an initiaive for programmers who want to practice writing code all by themselves without any AI to assure their competence and refresh their mind and their love for programming.
 
 ## motive
 Ragnar's [twitter post](https://x.com/RAGNAR404_/status/1964656343375302846) explains it all.
